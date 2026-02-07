@@ -48,7 +48,7 @@
     "url": "https://github.com/NeuralRays/codexray/issues"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=18.0.0 <=24.x"
   },
   "packageManager": "npm@10.0.0",
   "os": ["darwin", "linux", "win32"],

@@ -46,7 +46,7 @@ bunx codexray             # Zero-install equivalent
 
 ### Requirements
 
-Node.js ≥ 18.0.0 is required. CodeXRay uses native tree-sitter bindings, `glob` v11, `fs.promises`, and ES2022 features that require Node 18+.
+Node.js 18–24 is required. CodeXRay uses native tree-sitter bindings, `glob` v11, `fs.promises`, and ES2022 features that require Node 18+.
 
 To check your version: `node -v`
 

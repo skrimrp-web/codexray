@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/codexray?color=cb3837&logo=npm)](https://www.npmjs.com/package/codexray)
 [![npm downloads](https://img.shields.io/npm/dm/codexray?color=blue&logo=npm)](https://www.npmjs.com/package/codexray)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18--24-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-8B5CF6?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIi8+PC9zdmc+)](https://modelcontextprotocol.io/)
 [![GitHub stars](https://img.shields.io/github/stars/NeuralRays/codexray?style=social)](https://github.com/NeuralRays/codexray)
@@ -253,7 +253,7 @@ cxr.close();
 
 ## Requirements
 
-- **Node.js ≥ 18** (for native fetch, glob, ES2022)
+- **Node.js 18–24** (for native fetch, glob, ES2022)
 - No API keys, no cloud services, no external databases
 - 100% local — everything in `.codexray/graph.db`
 
@@ -281,10 +281,6 @@ cxr.close();
 | Zero-config `npx` install | ✅ | ✅ |
 | Languages | 13 | **15** |
 | Install size | ~500MB (transformers.js) | **~50MB** |
-
-## Publishing
-
-See [SETUP.md](SETUP.md) for step-by-step npm publishing instructions.
 
 ## License
 
