@@ -310,3 +310,21 @@ cxr.close();
 ## License
 
 MIT
+
+---
+
+<p align="center">
+  <a href="https://github.com/NeuralRays/codexray/issues"><b>Report a Bug</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/NeuralRays/codexray/issues"><b>Request a Feature</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/NeuralRays/codexray/pulls"><b>Submit a PR</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://github.com/NeuralRays/codexray/discussions"><b>Discussions</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.npmjs.com/package/codexray"><b>npm Package</b></a>
+</p>
+
+<p align="center">
+  If you find CodeXRay useful, please consider giving it a <a href="https://github.com/NeuralRays/codexray">star on GitHub</a>!
+</p>
