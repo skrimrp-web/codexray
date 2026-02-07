@@ -1,6 +1,6 @@
 {
   "name": "codexray",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "X-ray vision for your codebase — semantic knowledge graph that saves AI coding agents 30%+ tokens. Pre-built code intelligence for Claude Code, Cursor, Windsurf via MCP.",
   "type": "commonjs",
   "main": "dist/index.js",
